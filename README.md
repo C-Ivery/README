@@ -51,7 +51,7 @@ Cookout Planner is designed to simplify planning group cookouts by allowing user
 ---
 
 ## 📫 Connect with Me
-**LinkedIn:** https://www.linkedin.com/in/chad-ivery  
+**LinkedIn:** https://www.linkedin.com/in/chad-ivery-512500385/
 **GitHub:** https://github.com/C-Ivery  
 
 ---
