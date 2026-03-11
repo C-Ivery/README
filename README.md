@@ -16,7 +16,7 @@ Currently completing the Tech Elevator full-stack Java program, where I focus on
 
 ## 📚 Featured Projects
 
-### 🔹 **TE Bucks — Full-Stack Money Transfer System**  
+### 🔹 **TE Bucks — Money Transfer System**  
 A multi-layer Java/Spring Boot application that allows users to register, log in, view balances, send/receive funds, and track transfer history.  
 Features parameterized queries, REST endpoints, DAOs, DTOs, and database persistence.
 
