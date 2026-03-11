@@ -32,6 +32,15 @@ Demonstrates OOP design and error handling.
 **Tech:** Java, OOP, File I/O  
 **Repo:** https://github.com/C-Ivery/vending-machine-app  
 
+--- 
+
+### 🔹 **Cookout Planner — Full Stack Planner Application**  
+
+Cookout Planner is designed to simplify planning group cookouts by allowing users to create events, manage attendees, and organize shared food or item contributions. The application uses a full-stack architecture with a Spring Boot backend providing RESTful APIs and a React frontend that interacts with those services to deliver a responsive user interface.
+
+**Tech:** Java, Spring Boot, REST APIs, PostgreSQL, React, JavaScript, HTML/CSS
+**Repo:** https://github.com/C-Ivery/cookout-planner
+
 ---
 
 ## 🔧 What I'm Working On
